@@ -18,7 +18,7 @@ CriptoReact te permite comparar fácilmente los precios entre monedas nacionales
 
 ¡Explora las funcionalidades, experimenta con el diseño y contribuye al crecimiento de este emocionante proyecto en el mundo de las criptomonedas! 💰
 
-**Puedes acceder a la aplicación directamente [aquí](inserta_tu_link).**
+**Puedes acceder a la aplicación directamente https://criptoreact-vite.netlify.app/**
 
 ---
 
